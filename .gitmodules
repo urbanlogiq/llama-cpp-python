@@ -1,3 +1,4 @@
 [submodule "vendor/llama.cpp"]
 	path = vendor/llama.cpp
-	url = https://github.com/ggerganov/llama.cpp.git
+	url = https://github.com/urbanlogiq/llama.cpp.git
+	branch = disable-mmap-9027e272c7efcb4f59d7238b03725e49c14b4f96
